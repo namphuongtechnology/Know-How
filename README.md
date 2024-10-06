@@ -5,6 +5,7 @@ For instance,
 
 1. Knowledge of data structures such as B-Trees, commonly used for indexing 
 2. Understanding read-write strategies in relational database management systems (RDBMS) provide valuable case studies that can inform the design of efficient, scalable systems
+3. Examining execution plan enhance understanding of system design 
 
 # Sources
 https://www.youtube.com/@trungquandev/featured 
