@@ -1,5 +1,5 @@
 Inspired by physicist Richard Feynman famous saying 
-> If you want to master something, teach it. The more you teach, the more you understand it. In order to understand something, you must understand the broader context of related concepts.
+> In order to understand something, you must understand the broader context of related concepts.
 
 This repository will document and present my know-how study to become a Senior Full Stack Engineer
 
