@@ -13,7 +13,7 @@ For instance,
 3. Examining execution plan enhances understanding of overall system design principles
 
 ### Sources
-[Database Performance Tuning](https://wecommit.com.vn/) provides extensive know-how and case studies in SQL language, SQL database performance tuning and database administration (to become a DBA)
+[Database Performance Tuning](https://wecommit.com.vn/) provides extensive know-how and case studies in SQL language, SQL database performance tuning for engineers and database administration to become a DBA
 
 # Full Stack Development and System Design Know-how
 ### Sources
