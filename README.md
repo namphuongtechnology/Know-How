@@ -21,19 +21,19 @@ For instance,
 [Grokking-Modern-System-Design-Interview-for-Engineers-Managers](https://github.com/anonystick/anonystick/tree/main/Library/system.design/educative.io/Grokking-Modern-System-Design-Interview-for-Engineers-Managers) provides extensive, in-depth know-how in System Design
 
 # Backend
-[Redis, Mysql, Mongodb, ElasticSearch, Kafka, RabbitMQ, Nginx](https://github.com/anonystick/anonystick) provides extensive and in-depth know-how and practical project in Backend and System Design
+[Project in Redis, Mysql, Mongodb, ElasticSearch, Kafka, RabbitMQ, Nginx](https://github.com/anonystick/anonystick) provides extensive and in-depth know-how and practical project in Backend and System Design
 
-[Spring REST APIs](https://www.udemy.com/course/spring-boot-rest-apis-ultimate/) provides fundamental knowledge and know-how in Spring
+[Course in Spring REST APIs](https://www.udemy.com/course/spring-boot-rest-apis-ultimate/) provides fundamental knowledge and know-how in Spring
 
 # Frontend
-[Angular](https://github.com/angular-vietnam/100-days-of-angular) provides extensive, in-depth know-how and practical projects in Angular
+[100 days of Angular](https://github.com/angular-vietnam/100-days-of-angular) provides extensive, in-depth know-how and practical projects in Angular
 
-[React, HTML, CSS, MaterialUI](https://www.youtube.com/@trungquandev/featured) provides extensive, in-depth know-how and practical projects focusing on building UI
+[React MaterialUI](https://www.youtube.com/@trungquandev/featured) provides extensive, in-depth know-how and practical projects focusing on building UI
 
 # Testing
-[Backend Spring](https://rieckpil.de/courses/) provides extensive and in-depth testing know-how in Spring
+[Spring by Rieckpil](https://rieckpil.de/courses/) provides extensive and in-depth testing know-how in Spring
 
-[Frontend Angular](https://testing-angular.com/) provides extensive and in-depth testing know-how in Angular
+[Angular by molily](https://testing-angular.com/) provides extensive and in-depth testing know-how in Angular
 
 # Miscellaneous Resources
 [Frontend Data Architecture](https://bookshelf-b2bf6.web.app/)
