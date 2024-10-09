@@ -28,26 +28,26 @@ For instance,
 # Frontend
 [100 days of Angular](https://github.com/angular-vietnam/100-days-of-angular) provides extensive, in-depth know-how and practical projects in Angular
 
-[React MaterialUI](https://www.youtube.com/@trungquandev/featured) provides extensive, in-depth know-how and practical projects focusing on building UI
+[React and MaterialUI](https://www.youtube.com/@trungquandev/featured) provides extensive, in-depth know-how and practical projects focusing on building UI
 
 # Testing
 [Spring by Rieckpil](https://rieckpil.de/courses/) provides extensive and in-depth testing know-how in Spring
 
-[Angular by molily](https://testing-angular.com/) provides extensive and in-depth testing know-how in Angular
+[Angular by Molily](https://testing-angular.com/) provides extensive and in-depth testing know-how in Angular
 
 # Miscellaneous Resources
-[Frontend Data Architecture](https://bookshelf-b2bf6.web.app/)
+[Frontend data architecture](https://bookshelf-b2bf6.web.app/)
 
-[Database Lock Conflict](https://wecommit.com.vn/sql-lock-conflict-la-gi/)
+[Database lock conflict](https://wecommit.com.vn/sql-lock-conflict-la-gi/)
 
-[Blog Dev Java](https://dev.java/)
+[Blog dev Java](https://dev.java/)
 
-[CSS Tricks](https://css-tricks.com/)
+[CSS tricks](https://css-tricks.com/)
 
 [Angular reviewed articles and tutorials](https://angular.love/)
 
-[Angular Team Blog](https://blog.angular.dev/)
+[Angular team blog](https://blog.angular.dev/)
 
-[Angular Blog by Maxkoretskyi](https://indepth.dev/)
+[Angular blog by Maxkoretskyi](https://indepth.dev/)
 
-[Angular MaterialUI Docs](https://rc.material.angular.io/)
+[Angular MaterialUI docs](https://rc.material.angular.io/)
