@@ -18,11 +18,12 @@ For instance,
 # Full Stack Development and System Design Know-how
 ### Sources
 [System Design Interview An Insider’s Guide by Alex Xu](https://github.com/Henrywu573/Catalogue/blob/master/System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Xu%20(z-lib.org).pdf) provides keywords to dive in System Design 
+[Grokking-Modern-System-Design-Interview-for-Engineers-Managers](https://github.com/anonystick/anonystick/tree/main/Library/system.design/educative.io/Grokking-Modern-System-Design-Interview-for-Engineers-Managers) provides extensive and in-depth know-how in System Design
 
-[Grokking-Modern-System-Design-Interview-for-Engineers-Managers](https://github.com/anonystick/anonystick/tree/main/Library/system.design/educative.io/Grokking-Modern-System-Design-Interview-for-Engineers-Managers) provides deeper knowledge in System Design
+[Backend and System Design](https://github.com/anonystick/anonystick) provides extensive and in-depth know-how and practical project in Backend and System Design
 
-[Backend Testing with Java Spring](https://rieckpil.de/courses/) provides extensive testing know-how and practical project
+[Frontend React](https://www.youtube.com/@trungquandev/featured) provides extensive and in-depth know-how and practical projects in React/Material focusing on building UI
+[Frontend Angular](https://github.com/angular-vietnam/100-days-of-angular) provides extensive and in-depth know-how and practical projects in Angular
 
-[Backend and System Design](https://github.com/anonystick/anonystick) provides practical project in System Design
-
-[Frontend](https://www.youtube.com/@trungquandev/featured) provides know-how and practical projects in Frontend focusing on building UI
+[Testing Backend with Spring](https://rieckpil.de/courses/) provides extensive and in-depth testing know-how in Spring
+[Testing Frontend with Angular](https://testing-angular.com/) provides extensive and in-depth testing know-how in Angular
