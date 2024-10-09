@@ -3,7 +3,7 @@ Inspired by physicist Richard Feynman famous saying
 
 This repository will document and present my know-how study plan to become a Senior Full Stack Engineer. The result of the study is stored as a series of files in this repository. The files are created using [XMind](https://xmind.app/), in order to examine all details without any compression, contact the author to obtain the original resources.
 
-# Database Know-how
+# Database
 By mastering database optimization techniques, engineers can gain a deeper understanding of internal database operations, enhancing their insight into system design principles that are widely applicable across various domains. 
 
 For instance, 
@@ -15,18 +15,22 @@ For instance,
 ### Sources
 [Database Performance Tuning](https://wecommit.com.vn/) & [Its Youtube Channel](https://www.youtube.com/@tranquochuywecommit) provides extensive know-how and case studies in SQL language, SQL database performance tuning for engineers and database administration to become a DBA
 
-# Full Stack Development and System Design Know-how
+# System Design
 ### Sources
 [System Design Interview An Insider’s Guide by Alex Xu](https://github.com/Henrywu573/Catalogue/blob/master/System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Xu%20(z-lib.org).pdf) provides keywords to dive in System Design 
 
 [Grokking-Modern-System-Design-Interview-for-Engineers-Managers](https://github.com/anonystick/anonystick/tree/main/Library/system.design/educative.io/Grokking-Modern-System-Design-Interview-for-Engineers-Managers) provides extensive, in-depth know-how in System Design
 
-[Backend and System Design](https://github.com/anonystick/anonystick) provides extensive and in-depth know-how and practical project in Backend and System Design
+# Backend
+[Redis, Mysql, Mongodb, ElasticSearch, Kafka, RabbitMQ, Nginx](https://github.com/anonystick/anonystick) provides extensive and in-depth know-how and practical project in Backend and System Design
+[Spring REST APIs](https://www.udemy.com/course/spring-boot-rest-apis-ultimate/) provides fundamental knowledge and know-how in Spring
 
-[Frontend Angular](https://github.com/angular-vietnam/100-days-of-angular) provides extensive, in-depth know-how and practical projects in Angular
+# Frontend
+[Angular](https://github.com/angular-vietnam/100-days-of-angular) provides extensive, in-depth know-how and practical projects in Angular
 
-[Frontend React](https://www.youtube.com/@trungquandev/featured) provides extensive, in-depth know-how and practical projects in React/Material focusing on building UI
+[React, HTML, CSS, MaterialUI](https://www.youtube.com/@trungquandev/featured) provides extensive, in-depth know-how and practical projects focusing on building UI
 
-[Testing Backend with Spring](https://rieckpil.de/courses/) provides extensive and in-depth testing know-how in Spring
+# Testing
+[Backend Spring](https://rieckpil.de/courses/) provides extensive and in-depth testing know-how in Spring
 
-[Testing Frontend with Angular](https://testing-angular.com/) provides extensive and in-depth testing know-how in Angular
+[Frontend Angular](https://testing-angular.com/) provides extensive and in-depth testing know-how in Angular
