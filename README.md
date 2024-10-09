@@ -13,7 +13,7 @@ For instance,
 ### Sources
 [Database Performance Tuning](https://wecommit.com.vn/)
 
-# Full Stack and System Design Know-how
+# Full Stack Development and System Design Know-how
 ### Sources
 [Grokking-Modern-System-Design-Interview-for-Engineers-Managers](https://github.com/anonystick/anonystick/tree/main/Library/system.design/educative.io/Grokking-Modern-System-Design-Interview-for-Engineers-Managers)
 
