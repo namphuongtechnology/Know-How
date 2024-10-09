@@ -1,7 +1,7 @@
 Inspired by physicist Richard Feynman famous saying 
 > In order to understand something, you must understand the broader context of related concepts.
 
-This repository will document and present my know-how study to become a Senior Full Stack Engineer
+This repository will document and present my know-how study plan to become a Senior Full Stack Engineer
 
 # Database Know-how
 By mastering database optimization techniques, engineers can gain a deeper understanding of internal database operations, enhancing their insight into system design principles that are widely applicable across various domains. 
