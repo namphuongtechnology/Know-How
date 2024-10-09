@@ -23,9 +23,9 @@ For instance,
 
 [Backend and System Design](https://github.com/anonystick/anonystick) provides extensive and in-depth know-how and practical project in Backend and System Design
 
-[Frontend React](https://www.youtube.com/@trungquandev/featured) provides extensive and in-depth know-how and practical projects in React/Material focusing on building UI
+[Frontend Angular](https://github.com/angular-vietnam/100-days-of-angular) provides extensive, in-depth know-how and practical projects in Angular
 
-[Frontend Angular](https://github.com/angular-vietnam/100-days-of-angular) provides extensive and in-depth know-how and practical projects in Angular
+[Frontend React](https://www.youtube.com/@trungquandev/featured) provides extensive, in-depth know-how and practical projects in React/Material focusing on building UI
 
 [Testing Backend with Spring](https://rieckpil.de/courses/) provides extensive and in-depth testing know-how in Spring
 
