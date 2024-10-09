@@ -12,7 +12,6 @@ For instance,
 2. Understanding read-write strategies in relational database management systems (RDBMS) provide valuable case studies that can inform the design of efficient, scalable systems
 3. Examining execution plan enhances understanding of overall system design principles
 
-### Sources
 [Database Performance Tuning](https://wecommit.com.vn/) & [Its Youtube Channel](https://www.youtube.com/@tranquochuywecommit) provides extensive know-how and case studies in SQL language, SQL database performance tuning for engineers and database administration to become a DBA
 
 # System Design
