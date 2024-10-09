@@ -13,7 +13,7 @@ For instance,
 3. Examining execution plan enhances understanding of overall system design principles
 
 ### Sources
-[Database Performance Tuning](https://wecommit.com.vn/)
+[Database Performance Tuning](https://wecommit.com.vn/) provides extensive know-how and case studies in SQL language, SQL database performance tuning and database administration (to become a DBA)
 
 # Full Stack Development and System Design Know-how
 ### Sources
@@ -23,6 +23,6 @@ For instance,
 
 [Backend Testing with Java Spring](https://rieckpil.de/courses/) provides extensive testing know-how and practical project
 
-[Backend and System Design](https://github.com/anonystick/anonystick) provides practical project in System Design.
+[Backend and System Design](https://github.com/anonystick/anonystick) provides practical project in System Design
 
 [Frontend](https://www.youtube.com/@trungquandev/featured) provides know-how and practical projects in Frontend focusing on building UI
