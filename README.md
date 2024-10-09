@@ -19,7 +19,7 @@ For instance,
 ### Sources
 [System Design Interview An Insider’s Guide by Alex Xu](https://github.com/Henrywu573/Catalogue/blob/master/System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Xu%20(z-lib.org).pdf) provides keywords to dive in System Design 
 
-[Grokking-Modern-System-Design-Interview-for-Engineers-Managers](https://github.com/anonystick/anonystick/tree/main/Library/system.design/educative.io/Grokking-Modern-System-Design-Interview-for-Engineers-Managers) provides extensive and in-depth know-how in System Design
+[Grokking-Modern-System-Design-Interview-for-Engineers-Managers](https://github.com/anonystick/anonystick/tree/main/Library/system.design/educative.io/Grokking-Modern-System-Design-Interview-for-Engineers-Managers) provides extensive, in-depth know-how in System Design
 
 [Backend and System Design](https://github.com/anonystick/anonystick) provides extensive and in-depth know-how and practical project in Backend and System Design
 
