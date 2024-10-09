@@ -23,6 +23,7 @@ For instance,
 
 # Backend
 [Redis, Mysql, Mongodb, ElasticSearch, Kafka, RabbitMQ, Nginx](https://github.com/anonystick/anonystick) provides extensive and in-depth know-how and practical project in Backend and System Design
+
 [Spring REST APIs](https://www.udemy.com/course/spring-boot-rest-apis-ultimate/) provides fundamental knowledge and know-how in Spring
 
 # Frontend
@@ -34,3 +35,20 @@ For instance,
 [Backend Spring](https://rieckpil.de/courses/) provides extensive and in-depth testing know-how in Spring
 
 [Frontend Angular](https://testing-angular.com/) provides extensive and in-depth testing know-how in Angular
+
+# Miscellaneous Resources
+[Frontend Data Architecture](https://bookshelf-b2bf6.web.app/)
+
+[Database Lock Conflict](https://wecommit.com.vn/sql-lock-conflict-la-gi/)
+
+[Blog Dev Java](https://dev.java/)
+
+[CSS Tricks](https://css-tricks.com/)
+
+[Angular reviewed articles and tutorials](https://angular.love/)
+
+[Angular Team Blog](https://blog.angular.dev/)
+
+[Angular Blog by Maxkoretskyi](https://indepth.dev/)
+
+[Angular MaterialUI Docs](https://rc.material.angular.io/)
