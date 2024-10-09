@@ -8,9 +8,9 @@ By mastering database optimization techniques, engineers can gain a deeper under
 
 For instance, 
 
-1. Knowledge of data structures such as B-Trees, commonly used for indexing 
+1. Knowledge of as B-Trees, commonly used for indexing, enhances understanding of data structures  
 2. Understanding read-write strategies in relational database management systems (RDBMS) provide valuable case studies that can inform the design of efficient, scalable systems
-3. Examining execution plan enhances understanding of system design 
+3. Examining execution plan enhances understanding of overall system design 
 
 ### Sources
 [Database Performance Tuning](https://wecommit.com.vn/)
