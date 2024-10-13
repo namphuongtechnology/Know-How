@@ -40,8 +40,7 @@ For instance,
 # Containerization
 [Learn Docker in a Month of Lunches by Elton Stoneman](https://www.youtube.com/playlist?list=PLXl_isu8qxvmDOAnUkG5x16LzBzGzY_Ww)
 
-# Cloud
-
+# Cloud Books
 [Amazon Web Services in Action, Third Edition](https://www.manning.com/books/amazon-web-services-in-action-third-edition)
 
 [Terraform: Up & Running: Writing Infrastructure as Code, 2019](https://www.amazon.de/dp/1492046906?tag=loujaybee-21&geniuslink=true)
@@ -60,7 +59,7 @@ For instance,
 
 [The Phoenix project](https://itrevolution.com/product/the-phoenix-project/)
 
-[System Design Interview An Insider’s Guide by Alex Xu](https://github.com/Henrywu573/Catalogue/blob/master/System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Xu%20(z-lib.org).pdf) provides keywords to dive in System Design 
+[Acing the System Design Interview by Zhiyong Tan, 2024](https://www.manning.com/books/acing-the-system-design-interview)
 
 [Building Microservices: Designing Fine-Grained System, 2021](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/)
 
