@@ -16,6 +16,8 @@ For instance,
 
 # System Design
 ### Sources
+[Acing the System Design Interview by Zhiyong Tan, 2024](https://www.manning.com/books/acing-the-system-design-interview)
+
 [System Design Interview An Insider’s Guide by Alex Xu](https://github.com/Henrywu573/Catalogue/blob/master/System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Xu%20(z-lib.org).pdf) provides keywords to dive in System Design 
 
 [Grokking-Modern-System-Design-Interview-for-Engineers-Managers by Educative](https://github.com/anonystick/anonystick/tree/main/Library/system.design/educative.io/Grokking-Modern-System-Design-Interview-for-Engineers-Managers) provides extensive, in-depth know-how in System Design
@@ -34,6 +36,29 @@ For instance,
 [Spring by Rieckpil](https://rieckpil.de/courses/) provides extensive and in-depth testing know-how in Spring
 
 [Angular by Molily](https://testing-angular.com/) provides extensive and in-depth testing know-how in Angular
+
+# Cloud 
+[Learn Docker in a Month of Lunches by Elton Stoneman](https://www.youtube.com/playlist?list=PLXl_isu8qxvmDOAnUkG5x16LzBzGzY_Ww)
+
+[Amazon Web Services in Action, Third Edition](https://www.manning.com/books/amazon-web-services-in-action-third-edition)
+
+[Terraform: Up & Running: Writing Infrastructure as Code, 2019](https://www.amazon.de/dp/1492046906?tag=loujaybee-21&geniuslink=true)
+
+[The Devops Handbook, 2016](https://www.amazon.de/dp/1942788002?geniuslink=true)
+
+[AWS Certified Solutions Architect: Associate (Saa-c02) Exam (Aws Certified Solutions Architect Official: Associate Exam)](https://www.amazon.de/dp/1119713080?asc_campaign=581f34194cee7d2eee303c6fdd5626f7&asc_source=01HFEMMMAVHX10DGRHX5P5NNQY&geniuslink=true&tag=snxde6-21)
+
+[Cloud Computing: Concepts, Technology & Architecture](https://www.amazon.de/-/en/Cloud-Computing-Concepts-Technology-Architecture/dp/0133387526)
+
+[Cloud Native Infrastructure](https://www.oreilly.com/library/view/cloud-native-infrastructure/9781491984291/)
+
+[Site Reliability Engineering (SRE)](https://sre.google/books/)
+
+[Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+
+[The Phoenix project](https://itrevolution.com/product/the-phoenix-project/)
+
+[System Design Interview An Insider’s Guide by Alex Xu](https://github.com/Henrywu573/Catalogue/blob/master/System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Xu%20(z-lib.org).pdf) provides keywords to dive in System Design 
 
 # Miscellaneous Resources
 [Frontend data architecture](https://bookshelf-b2bf6.web.app/)
