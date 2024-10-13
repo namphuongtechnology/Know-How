@@ -37,7 +37,7 @@ For instance,
 
 [Angular by Molily](https://testing-angular.com/) provides extensive and in-depth testing know-how in Angular
 
-# Containeriazation
+# Containerization
 [Learn Docker in a Month of Lunches by Elton Stoneman](https://www.youtube.com/playlist?list=PLXl_isu8qxvmDOAnUkG5x16LzBzGzY_Ww)
 
 # Cloud
