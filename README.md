@@ -79,7 +79,7 @@ For instance,
 
 [Building Microservices: Designing Fine-Grained System, 2021](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/)
 
-# Refernces
+# References
 [Angular component communication](https://bookshelf-b2bf6.web.app/)
 
 [Database lock conflict](https://wecommit.com.vn/sql-lock-conflict-la-gi/)
