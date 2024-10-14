@@ -14,15 +14,23 @@ For instance,
 
 [Database Performance Tuning by Wecommit](https://wecommit.com.vn/) & [Its Youtube Channel](https://www.youtube.com/@tranquochuywecommit) provides extensive know-how and case studies in SQL language, SQL database performance tuning for engineers and database administration to become a DBA
 
-# Software Craftsmanship, Design Principles and Best Practices 
-[Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin Series)](https://www.amazon.de/-/en/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+# Books I've Read on Software Craftsmanship, Design Principles, and Best Practices
 
-[Clean Architecture: A Craftsman's Guide to Software Structure and Design: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series)](https://www.amazon.de/-/en/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
+## 📚 Software Craftsmanship and Clean Code
 
-[Fundamentals of Software Architecture: An Engineering Approach by Mark Richards, Neal Ford](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
+- **[Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin Series)](https://www.amazon.de/-/en/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)**  
+  Focuses on writing readable, maintainable, and clean code. A must-read for understanding best practices in software development.
+
+- **[Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series)](https://www.amazon.de/-/en/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)**  
+  Explores architectural patterns and principles that lead to scalable and maintainable systems, focusing on independence of frameworks and UI, and decoupling from the delivery mechanism.
+
+## 📘 Software Architecture
+
+- **[Fundamentals of Software Architecture: An Engineering Approach by Mark Richards, Neal Ford](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)**  
+  Offers a deep dive into architectural styles, patterns, and decisions, emphasizing the practical aspects of creating effective software architectures.
 
 # System Design
-### Sources
+
 [Acing the System Design Interview by Zhiyong Tan, 2024](https://www.manning.com/books/acing-the-system-design-interview)
 
 [System Design Interview An Insider’s Guide by Alex Xu](https://github.com/Henrywu573/Catalogue/blob/master/System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Xu%20(z-lib.org).pdf) provides keywords to dive in System Design 
