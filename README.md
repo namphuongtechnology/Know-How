@@ -28,9 +28,9 @@ For instance,
 
 - **[Fundamentals of Software Architecture: An Engineering Approach by Mark Richards, Neal Ford](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)**  
   Offers a deep dive into architectural styles, patterns, and decisions, emphasizing the practical aspects of creating effective software architectures.
-# 📚 Books I Wish I've Read
+# Books I Wish I've Read
 
-## 🚀 System Design
+## 📚 System Design
 - **[Acing the System Design Interview by Zhiyong Tan, 2024](https://www.manning.com/books/acing-the-system-design-interview)**
 - **[System Design Interview: An Insider’s Guide by Alex Xu](https://github.com/Henrywu573/Catalogue/blob/master/System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Xu%20(z-lib.org).pdf)**  
   Keywords for deep dives into system design.
