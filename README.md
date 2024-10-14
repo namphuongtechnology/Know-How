@@ -61,7 +61,7 @@ For instance,
 - **[Terraform: Up & Running, 2019](https://www.amazon.de/dp/1492046906?tag=loujaybee-21&geniuslink=true)**
 - **[The DevOps Handbook, 2016](https://www.amazon.de/dp/1942788002?geniuslink=true)**
 
-## ☁️ Cloud Books
+## 📚 Cloud Books
 - **[Amazon Web Services in Action, Third Edition](https://www.manning.com/books/amazon-web-services-in-action-third-edition)**
 - **[AWS Certified Solutions Architect: Associate Exam](https://www.amazon.de/dp/1119713080)**
 - **[Cloud Computing: Concepts, Technology & Architecture](https://www.amazon.de/-/en/Cloud-Computing-Concepts-Technology-Architecture/dp/0133387526)**
