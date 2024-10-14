@@ -24,7 +24,7 @@ For instance,
 - **[Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series)](https://www.amazon.de/-/en/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)**  
   Explores architectural patterns and principles that lead to scalable and maintainable systems, focusing on independence of frameworks and UI, and decoupling from the delivery mechanism.
 
-## 📘 Software Architecture
+## 📚 Software Architecture
 
 - **[Fundamentals of Software Architecture: An Engineering Approach by Mark Richards, Neal Ford](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)**  
   Offers a deep dive into architectural styles, patterns, and decisions, emphasizing the practical aspects of creating effective software architectures.
@@ -37,25 +37,25 @@ For instance,
 - **[Grokking-Modern-System-Design-Interview-for-Engineers-Managers by Educative](https://github.com/anonystick/anonystick/tree/main/Library/system.design/educative.io/Grokking-Modern-System-Design-Interview-for-Engineers-Managers)**  
   In-depth knowledge of system design.
 
-## 💻 Backend
+## 📚 Backend
 - **[Project in Redis, MySQL, MongoDB, Elasticsearch, Kafka, RabbitMQ, Nginx by Anonystick](https://github.com/anonystick/anonystick)**  
   Practical projects for backend development and system design.
 - **[Project in Spring REST APIs by Nam Ha Minh](https://www.udemy.com/course/spring-boot-rest-apis-ultimate/)**  
   Fundamentals of Spring REST APIs.
 
-## 🎨 Frontend
+## 🚀 Frontend
 - **[Angular by 100 Days of Angular](https://github.com/angular-vietnam/100-days-of-angular)**  
   Hands-on experience with Angular projects.
 - **[React and MaterialUI by TrungQuanDev](https://www.youtube.com/@trungquandev/featured)**  
   UI-focused React and Material UI projects.
 
-## 🧪 Testing
+## 🚀 Testing
 - **[Spring Testing by Rieckpil](https://rieckpil.de/courses/)**  
   Extensive testing strategies for Spring.
 - **[Testing Angular by Molily](https://testing-angular.com/)**  
   In-depth testing know-how for Angular.
 
-## 🔧 DevOps
+## 📚 DevOps
 - **[Learn Docker in a Month of Lunches by Elton Stoneman](https://www.youtube.com/playlist?list=PLXl_isu8qxvmDOAnUkG5x16LzBzGzY_Ww)**  
   [Watch on YouTube](https://www.youtube.com/watch?v=QTnVztPl2Uw&list=PLXl_isu8qxvmDOAnUkG5x16LzBzGzY_Ww).
 - **[Terraform: Up & Running, 2019](https://www.amazon.de/dp/1492046906?tag=loujaybee-21&geniuslink=true)**
@@ -71,7 +71,7 @@ For instance,
 - **[The Phoenix Project](https://itrevolution.com/product/the-phoenix-project/)**
 - **[Building Microservices: Designing Fine-Grained System, 2021](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/)**
 
-## 🔗 References
+## 🚀 References
 - **[Angular component communication](https://bookshelf-b2bf6.web.app/)**
 - **[Database lock conflict](https://wecommit.com.vn/sql-lock-conflict-la-gi/)**
 - **[Blog dev Java](https://dev.java/)**
