@@ -14,6 +14,13 @@ For instance,
 
 [Database Performance Tuning by Wecommit](https://wecommit.com.vn/) & [Its Youtube Channel](https://www.youtube.com/@tranquochuywecommit) provides extensive know-how and case studies in SQL language, SQL database performance tuning for engineers and database administration to become a DBA
 
+# Software Craftsmanship, Design Principles and Best Practices 
+[Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin Series)](https://www.amazon.de/-/en/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+
+[Clean Architecture: A Craftsman's Guide to Software Structure and Design: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series)](https://www.amazon.de/-/en/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
+
+[Fundamentals of Software Architecture: An Engineering Approach by Mark Richards, Neal Ford](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
+
 # System Design
 ### Sources
 [Acing the System Design Interview by Zhiyong Tan, 2024](https://www.manning.com/books/acing-the-system-design-interview)
