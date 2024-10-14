@@ -1,7 +1,7 @@
 Inspired by physicist Richard Feynman famous saying 
 > In order to understand something, you must understand the broader context of related concepts.
 
-This repository will document and present my know-how study plan to become a seasoned Full Stack Engineer. The result of the study is stored as a series of files in this repository. The files are created using [XMind](https://xmind.app/), in order to examine all details without any compression, contact the author to obtain the original resources.
+This repository will document and present my know-how study plan to become a seasoned Full Stack Engineer and express upskill strategy. The result of the study is stored as a series of files in this repository. The files are created using [XMind](https://xmind.app/), in order to examine all details without any compression, contact the author to obtain the original resources.
 
 # Database
 By mastering database optimization techniques, engineers can gain a deeper understanding of internal database operations, enhancing their insight into system design principles that are widely applicable across various domains. 
