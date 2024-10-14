@@ -71,7 +71,7 @@ For instance,
 - **[The Phoenix Project](https://itrevolution.com/product/the-phoenix-project/)**
 - **[Building Microservices: Designing Fine-Grained System, 2021](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/)**
 
-# 🔗 References
+## 🔗 References
 - **[Angular component communication](https://bookshelf-b2bf6.web.app/)**
 - **[Database lock conflict](https://wecommit.com.vn/sql-lock-conflict-la-gi/)**
 - **[Blog dev Java](https://dev.java/)**
