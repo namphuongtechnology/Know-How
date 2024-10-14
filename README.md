@@ -80,4 +80,5 @@ For instance,
 - **[Angular team blog](https://blog.angular.dev/)**
 - **[In-depth Angular by Max Koretskyi](https://indepth.dev/)**
 - **[Angular MaterialUI docs](https://rc.material.angular.io/)**
+- **100 mistakes series by Manning**
 
