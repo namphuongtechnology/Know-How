@@ -42,12 +42,12 @@ For instance,
 
 [Terraform: Up & Running: Writing Infrastructure as Code, 2019](https://www.amazon.de/dp/1492046906?tag=loujaybee-21&geniuslink=true)
 
+[The Devops Handbook, 2016](https://www.amazon.de/dp/1942788002?geniuslink=true)
+
 # Cloud Books
 [Amazon Web Services in Action, Third Edition](https://www.manning.com/books/amazon-web-services-in-action-third-edition)
 
 [AWS Certified Solutions Architect: Associate (Saa-c02) Exam (Aws Certified Solutions Architect Official: Associate Exam)](https://www.amazon.de/dp/1119713080?asc_campaign=581f34194cee7d2eee303c6fdd5626f7&asc_source=01HFEMMMAVHX10DGRHX5P5NNQY&geniuslink=true&tag=snxde6-21)
-
-[The Devops Handbook, 2016](https://www.amazon.de/dp/1942788002?geniuslink=true)
 
 [Cloud Computing: Concepts, Technology & Architecture](https://www.amazon.de/-/en/Cloud-Computing-Concepts-Technology-Architecture/dp/0133387526)
 
