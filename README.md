@@ -38,7 +38,7 @@ For instance,
 [Angular by Molily](https://testing-angular.com/) provides extensive and in-depth testing know-how in Angular
 
 # DevOps
-[Learn Docker in a Month of Lunches by Elton Stoneman](https://www.youtube.com/playlist?list=PLXl_isu8qxvmDOAnUkG5x16LzBzGzY_Ww)
+[Learn Docker in a Month of Lunches by Elton Stoneman](https://www.youtube.com/playlist?list=PLXl_isu8qxvmDOAnUkG5x16LzBzGzY_Ww). [Youtube](https://www.youtube.com/watch?v=QTnVztPl2Uw&list=PLXl_isu8qxvmDOAnUkG5x16LzBzGzY_Ww)
 
 [Terraform: Up & Running: Writing Infrastructure as Code, 2019](https://www.amazon.de/dp/1492046906?tag=loujaybee-21&geniuslink=true)
 
