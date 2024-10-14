@@ -14,7 +14,7 @@ For instance,
 
 [Database Performance Tuning by Wecommit](https://wecommit.com.vn/) & [Its Youtube Channel](https://www.youtube.com/@tranquochuywecommit) provides extensive know-how and case studies in SQL language, SQL database performance tuning for engineers and database administration to become a DBA
 
-# Books I've Read on Software Craftsmanship, Design Principles, and Best Practices
+# Books I've Read
 
 ## 📚 Software Craftsmanship and Clean Code
 
@@ -29,7 +29,8 @@ For instance,
 - **[Fundamentals of Software Architecture: An Engineering Approach by Mark Richards, Neal Ford](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)**  
   Offers a deep dive into architectural styles, patterns, and decisions, emphasizing the practical aspects of creating effective software architectures.
 
-# System Design
+# Books I wished I've Read
+## System Design
 
 [Acing the System Design Interview by Zhiyong Tan, 2024](https://www.manning.com/books/acing-the-system-design-interview)
 
@@ -37,29 +38,29 @@ For instance,
 
 [Grokking-Modern-System-Design-Interview-for-Engineers-Managers by Educative](https://github.com/anonystick/anonystick/tree/main/Library/system.design/educative.io/Grokking-Modern-System-Design-Interview-for-Engineers-Managers) provides extensive, in-depth know-how in System Design
 
-# Backend
+## Backend
 [Project in Redis, Mysql, Mongodb, ElasticSearch, Kafka, RabbitMQ, Nginx by Anonystick](https://github.com/anonystick/anonystick) provides extensive and in-depth know-how and practical project in Backend and System Design
 
 [Project in Spring REST APIs by Nam Ha Minh](https://www.udemy.com/course/spring-boot-rest-apis-ultimate/) provides fundamental knowledge and know-how in Spring
 
-# Frontend
+## Frontend
 [Angular by 100 days of Angular](https://github.com/angular-vietnam/100-days-of-angular) provides extensive, in-depth know-how and practical projects in Angular
 
 [React and MaterialUI by TrungQuanDev](https://www.youtube.com/@trungquandev/featured) provides extensive, in-depth know-how and practical projects focusing on building UI
 
-# Testing
+## Testing
 [Spring by Rieckpil](https://rieckpil.de/courses/) provides extensive and in-depth testing know-how in Spring
 
 [Angular by Molily](https://testing-angular.com/) provides extensive and in-depth testing know-how in Angular
 
-# DevOps
+## DevOps
 [Learn Docker in a Month of Lunches by Elton Stoneman](https://www.youtube.com/playlist?list=PLXl_isu8qxvmDOAnUkG5x16LzBzGzY_Ww). [Youtube](https://www.youtube.com/watch?v=QTnVztPl2Uw&list=PLXl_isu8qxvmDOAnUkG5x16LzBzGzY_Ww)
 
 [Terraform: Up & Running: Writing Infrastructure as Code, 2019](https://www.amazon.de/dp/1492046906?tag=loujaybee-21&geniuslink=true)
 
 [The Devops Handbook, 2016](https://www.amazon.de/dp/1942788002?geniuslink=true)
 
-# Cloud Books
+## Cloud Books
 [Amazon Web Services in Action, Third Edition](https://www.manning.com/books/amazon-web-services-in-action-third-edition)
 
 [AWS Certified Solutions Architect: Associate (Saa-c02) Exam (Aws Certified Solutions Architect Official: Associate Exam)](https://www.amazon.de/dp/1119713080?asc_campaign=581f34194cee7d2eee303c6fdd5626f7&asc_source=01HFEMMMAVHX10DGRHX5P5NNQY&geniuslink=true&tag=snxde6-21)
@@ -78,7 +79,7 @@ For instance,
 
 [Building Microservices: Designing Fine-Grained System, 2021](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/)
 
-# Miscellaneous Resources
+# Refernces
 [Angular component communication](https://bookshelf-b2bf6.web.app/)
 
 [Database lock conflict](https://wecommit.com.vn/sql-lock-conflict-la-gi/)
