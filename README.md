@@ -60,12 +60,12 @@ For instance,
   [Watch on YouTube](https://www.youtube.com/watch?v=QTnVztPl2Uw&list=PLXl_isu8qxvmDOAnUkG5x16LzBzGzY_Ww).
 - **[Terraform: Up & Running, 2019](https://www.amazon.de/dp/1492046906?tag=loujaybee-21&geniuslink=true)**
 - **[The DevOps Handbook, 2016](https://www.amazon.de/dp/1942788002?geniuslink=true)**
+- **[Cloud Native Infrastructure](https://www.oreilly.com/library/view/cloud-native-infrastructure/9781491984291/)**
 
 ## 📚 Cloud
 - **[Amazon Web Services in Action, Third Edition](https://www.manning.com/books/amazon-web-services-in-action-third-edition)**
 - **[AWS Certified Solutions Architect: Associate Exam](https://www.amazon.de/dp/1119713080)**
 - **[Cloud Computing: Concepts, Technology & Architecture](https://www.amazon.de/-/en/Cloud-Computing-Concepts-Technology-Architecture/dp/0133387526)**
-- **[Cloud Native Infrastructure](https://www.oreilly.com/library/view/cloud-native-infrastructure/9781491984291/)**
 - **[Site Reliability Engineering (SRE)](https://sre.google/books/)**
 - **[Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)**
 - **[The Phoenix Project](https://itrevolution.com/product/the-phoenix-project/)**
