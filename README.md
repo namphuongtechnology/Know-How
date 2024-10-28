@@ -28,6 +28,14 @@ For instance,
 
 - **[Fundamentals of Software Architecture: An Engineering Approach by Mark Richards, Neal Ford](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)**  
   Offers a deep dive into architectural styles, patterns, and decisions, emphasizing the practical aspects of creating effective software architectures.
+
+## 📚 Cloud
+
+- **[Cloud Native Patterns](https://www.manning.com/books/cloud-native-patterns)**  
+   Design change-tolerant software.
+
+- **[Cloud Native Infrastructure](https://www.oreilly.com/library/view/cloud-native-infrastructure/9781491984291/)**
+  
 # Books I Wish I've Read
 
 ## 📚 System Design
@@ -60,7 +68,6 @@ For instance,
   [Watch on YouTube](https://www.youtube.com/watch?v=QTnVztPl2Uw&list=PLXl_isu8qxvmDOAnUkG5x16LzBzGzY_Ww).
 - **[Terraform: Up & Running, 2019](https://www.amazon.de/dp/1492046906?tag=loujaybee-21&geniuslink=true)**
 - **[The DevOps Handbook, 2016](https://www.amazon.de/dp/1942788002?geniuslink=true)**
-- **[Cloud Native Infrastructure](https://www.oreilly.com/library/view/cloud-native-infrastructure/9781491984291/)**
 
 ## 📚 Cloud
 - **[Amazon Web Services in Action, Third Edition](https://www.manning.com/books/amazon-web-services-in-action-third-edition)**
