@@ -28,13 +28,21 @@ For instance,
 
 - **[Fundamentals of Software Architecture: An Engineering Approach by Mark Richards, Neal Ford](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)**  
   Offers a deep dive into architectural styles, patterns, and decisions, emphasizing the practical aspects of creating effective software architectures.
+  
+## 📚 Containerization & DevOps
 
+- **[Docker in Action, Second Edition by Jeff Nickoloff and Stephen Kuenzli](https://www.manning.com/books/docker-in-action-second-edition)**  
+   Teaches the skills and knowledge needed to create, deploy, and manage applications hosted in Docker containers
+
+- **[Core Kubernetes by Jay Vyas and Chris Love]([https://www.manning.com/books/docker-in-action-second-edition](https://www.manning.com/books/core-kubernetes))**  
+   Takes a deep dive into Kubernetes inner components and discover what really powers a Kubernetes cluster
+  
 ## 📚 Cloud
 
 - **[Cloud Native Patterns](https://www.manning.com/books/cloud-native-patterns)**  
-   Design change-tolerant software.
+   Designs change-tolerant software.
 
-- **[Cloud Native Infrastructure](https://www.oreilly.com/library/view/cloud-native-infrastructure/9781491984291/)**
+
   
 # Books I Wish I've Read
 
@@ -77,6 +85,7 @@ For instance,
 - **[Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)**
 - **[The Phoenix Project](https://itrevolution.com/product/the-phoenix-project/)**
 - **[Building Microservices: Designing Fine-Grained System, 2021](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/)**
+- **[Cloud Native Infrastructure](https://www.oreilly.com/library/view/cloud-native-infrastructure/9781491984291/)**
 
 ## 🚀 References
 - **[Angular component communication](https://bookshelf-b2bf6.web.app/)**
