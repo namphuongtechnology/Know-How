@@ -34,7 +34,7 @@ For instance,
 - **[Docker in Action, Second Edition by Jeff Nickoloff and Stephen Kuenzli](https://www.manning.com/books/docker-in-action-second-edition)**  
    Teaches the skills and knowledge needed to create, deploy, and manage applications hosted in Docker containers
 
-- **[Core Kubernetes by Jay Vyas and Chris Love]([https://www.manning.com/books/docker-in-action-second-edition](https://www.manning.com/books/core-kubernetes))**  
+- **[Core Kubernetes by Jay Vyas and Chris Love](https://www.manning.com/books/core-kubernetes)**  
    Takes a deep dive into Kubernetes inner components and discover what really powers a Kubernetes cluster
   
 ## 📚 Cloud
