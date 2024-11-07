@@ -96,6 +96,13 @@ For instance,
 - **[Angular team blog](https://blog.angular.dev/)**
 - **[In-depth Angular by Max Koretskyi](https://indepth.dev/)**
 - **[Angular MaterialUI docs](https://rc.material.angular.io/)**
--  **[CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**
+- **[CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**
+- **[Frontend Image API](https://www.bannerbear.com/blog/5-image-apis-you-can-use-for-your-next-project-in-2022/)**
+- **[Angular Reddit](https://www.reddit.com/r/Angular2/)**
+- **[Webdev Reddit](https://www.reddit.com/r/webdev/)**
+- **[Youtube MonsterlessonsAcademy](https://www.youtube.com/@MonsterlessonsAcademy)**
+- **[Angular University](https://angular-university.io/home)**
+- **[RxJS Marble](https://rxmarbles.com/)**
+- **[JS Operators](https://www.joshwcomeau.com/operator-lookup/)**
 - **100 mistakes series by Manning**
 
