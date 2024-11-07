@@ -14,7 +14,7 @@ For instance,
 
 [Database Performance Tuning by Wecommit](https://wecommit.com.vn/) & [Its Youtube Channel](https://www.youtube.com/@tranquochuywecommit) provides extensive know-how and case studies in SQL language, SQL database performance tuning for engineers and database administration to become a DBA
 
-# Books I've Read
+# Completed Books
 
 ## 📚 Software Craftsmanship and Clean Code
 
@@ -57,7 +57,7 @@ For instance,
 - **11/2025**: Oracle Database SQL Certified Associate
 
   
-# Books I Wish I've Read
+# To-Read List
 
 ## 📚 System Design
 - **[Acing the System Design Interview by Zhiyong Tan, 2024](https://www.manning.com/books/acing-the-system-design-interview)**
