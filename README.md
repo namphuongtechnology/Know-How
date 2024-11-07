@@ -42,14 +42,13 @@ For instance,
 
 # Currently Reading
 
-
 - **[Core Kubernetes by Jay Vyas and Chris Love](https://www.manning.com/books/core-kubernetes)**  
    Takes a deep dive into Kubernetes inner components and discover what really powers a Kubernetes cluster
 
-# Planned Reading
+# Planned Reading & Practice
 
 - **[Amazon Web Services in Action, Third Edition](https://www.manning.com/books/amazon-web-services-in-action-third-edition)**
-- **[Amazon Web Services Practice](https://www.pluralsight.com/)**
+- **[Amazon Web Services Practice PluralSight](https://www.pluralsight.com/)**
 
 # Certification Goals
 
