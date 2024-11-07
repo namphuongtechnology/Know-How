@@ -34,14 +34,28 @@ For instance,
 - **[Docker in Action, Second Edition by Jeff Nickoloff and Stephen Kuenzli](https://www.manning.com/books/docker-in-action-second-edition)**  
    Teaches the skills and knowledge needed to create, deploy, and manage applications hosted in Docker containers
 
-- **[Core Kubernetes by Jay Vyas and Chris Love](https://www.manning.com/books/core-kubernetes)**  
-   Takes a deep dive into Kubernetes inner components and discover what really powers a Kubernetes cluster
   
 ## 📚 Cloud
 
 - **[Cloud Native Patterns](https://www.manning.com/books/cloud-native-patterns)**  
    Designs change-tolerant software.
 
+# Currently Reading
+
+
+- **[Core Kubernetes by Jay Vyas and Chris Love](https://www.manning.com/books/core-kubernetes)**  
+   Takes a deep dive into Kubernetes inner components and discover what really powers a Kubernetes cluster
+
+# Planned Reading
+
+- **[Amazon Web Services in Action, Third Edition](https://www.manning.com/books/amazon-web-services-in-action-third-edition)**
+- **[Amazon Web Services Practice](https://www.pluralsight.com/)**
+
+# Certification Goals
+
+- **02/2025**: AWS Certified Developer - Associate
+- **07/2025**: AWS Certified DevOps Engineer - Professional
+- **11/2025**: Oracle Database SQL Certified Associate
 
   
 # Books I Wish I've Read
