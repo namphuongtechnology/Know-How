@@ -119,3 +119,5 @@ For instance,
 - **[JS Operators](https://www.joshwcomeau.com/operator-lookup/)**
 - **100 mistakes series by Manning**
 
+## 🚀 Code Snippets
+https://stackoverflow.com/questions/63136198/how-to-change-the-date-format-of-angular-material-date-range-picker
