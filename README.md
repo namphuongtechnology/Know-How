@@ -100,10 +100,8 @@ For instance,
 - **[Building Microservices: Designing Fine-Grained System, 2021](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/)**
 - **[Cloud Native Infrastructure](https://www.oreilly.com/library/view/cloud-native-infrastructure/9781491984291/)**
 
-## 🚀 References
+## 🚀 References Frontend
 - **[Angular component communication](https://bookshelf-b2bf6.web.app/)**
-- **[Database lock conflict](https://wecommit.com.vn/sql-lock-conflict-la-gi/)**
-- **[Blog dev Java](https://dev.java/)**
 - **[CSS Tricks](https://css-tricks.com/)**
 - **[Angular reviewed articles and tutorials](https://angular.love/)**
 - **[Angular team blog](https://blog.angular.dev/)**
@@ -117,6 +115,11 @@ For instance,
 - **[Angular University](https://angular-university.io/home)**
 - **[RxJS Marble](https://rxmarbles.com/)**
 - **[JS Operators](https://www.joshwcomeau.com/operator-lookup/)**
+- **https://www.youtube.com/@TechMely**
+
+## 🚀 Other References
+- **[Database lock conflict](https://wecommit.com.vn/sql-lock-conflict-la-gi/)**
+- **[Blog dev Java](https://dev.java/)**
 - **100 mistakes series by Manning**
 - **https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources**
 - **https://cloud4scieng.org/chapters/**
