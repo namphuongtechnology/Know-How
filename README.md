@@ -118,6 +118,7 @@ For instance,
 - **[RxJS Marble](https://rxmarbles.com/)**
 - **[JS Operators](https://www.joshwcomeau.com/operator-lookup/)**
 - **100 mistakes series by Manning**
+- **https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources**
 
 ## 🚀 Code Snippets
 https://stackoverflow.com/questions/63136198/how-to-change-the-date-format-of-angular-material-date-range-picker
